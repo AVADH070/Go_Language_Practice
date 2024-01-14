@@ -13,6 +13,6 @@ func main() {
 	// fmt.Println(arr1 == arr3)
 
 	fmt.Println(arr1 == arr3)
-	fmt.Println(arr2 == arr3[:3]) // Comparing the first 3 elements of arr3 with arr2
+	fmt.Println(arr2 == arr3[:3]) // Comparing the first 3 elements of arr3 with arr2 sdfnsdf
 
 }
